@@ -6,7 +6,7 @@ Apple Automator Workflow for decrypting a file with openssl aes-256-cbc encrypti
 
 Usage
 =====
-Download the repo as a zip archive using the button above.
+Download the repo as a zip archive.
 
 Extract the archive.
 
